@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "143d9ae26882ce1c1a02bbb7",
+  "owner": "rrwvhebydh",
+  "repo": "page-c7663deb013f275397d51a33",
+  "title": "悟空",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c7663deb013f275397d51a33",
+      "a": "悟空",
+      "b": "机场官网线路发布页",
+      "entity": "悟空",
+      "brand": "悟空",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "82eaac152bc26e08f3b4d9ea1e0b5c9b9c0bfc3781f82e61fc75082898996e95",
+      "content": {
+        "primary_entity": "悟空",
+        "keyword1": "悟空",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "选择与设备匹配的客户端，按文档导入悟空订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "悟空提供多档流量与设备方案，选一档匹配日常连接需要即可开始使用。",
+          "AI_CLOSING_TITLE": "选择悟空套餐",
+          "AI_DESCRIPTION": "，悟空以海外加速器服务面向不同设备规模的用户，提供基础版、旗舰版和团队版三档套餐。基础版每月15元，含100GB流量、3台设备在线；旗舰版每月35元，含300GB流量、5台设备在线，并配备IPLC专线游戏加速优化；团队版每月85元，含1000GB流量、20台设备在线，支持企业定制路由。按年付可节省两个月费用，用户可根据设备数量和流量需求选择合适档位。",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台。设备数量按同时在线计算，选择与日常使用设备数匹配的版本即可，多设备场景可考虑旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。轻度浏览选基础版，多设备流媒体或游戏选旗舰版，团队共享选团队版。",
+          "AI_FAQ_ANSWER_3": "旗舰版和团队版提供流媒体解锁节点，基础版解锁基础流媒体。具体解锁效果受平台策略和节点影响，可按套餐说明选择。",
+          "AI_FAQ_ANSWER_4": "年付相当于按年付仅需150元、350元或850元，比月付节省两个月费用。长期使用可选年付，短期体验选月付更灵活。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中导入订阅地址即可。不同系统客户端操作略有差异，可参照客户端文档完成导入和连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "各版本每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "流媒体解锁支持哪些套餐？",
+          "AI_FAQ_QUESTION_4": "年付与月付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "根据设备数量、月流量和订阅周期，选择匹配的悟空套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURE_TEXT_1": "基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。",
+          "AI_FEATURE_TEXT_2": "旗舰版含IPLC专线游戏加速，团队版支持企业定制路由。",
+          "AI_FEATURE_TEXT_3": "年付方案按年付150元、350元或850元，较月付节省两个月。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选版本",
+          "AI_FEATURE_TITLE_2": "专线与团队功能",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅，按设备数量和流量需求逐步操作。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "悟空海外加速器提供基础版、旗舰版、团队版三档套餐，覆盖100GB至1000GB月流量，满足单人、家庭及团队不同规模的设备连接需求。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案节省两个月费用",
+          "AI_PLANS_INTRO": "基础版适合3台设备内轻度使用，旗舰版适合5台设备流媒体与游戏，团队版适合20台设备共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和月流量预期，从基础版、旗舰版或团队版中选择一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备在线数、流量额度及节点类型是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中参照文档导入订阅地址，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "悟空套餐与设备指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "powerwr.com",
+    "host": "powerwr.com"
+  },
+  "file_hashes": {
+    "index.html": "60ac976cb579489c894c4eb4577fe8f38fcf928ce46755b1115692b1af969938",
+    "sitemap.xml": "8249babaf46ff5cb316c8227ba932ada900dcb132caffdc55ceb3d4616d990de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a079cd86bbb7c07a23e0194dddddd934021b8185856345c6e86f9d60ae59847f",
+    "robots.txt": "466bd34cc2c7c20786d5f3abb44a6f4d72d7bbc13eb7d16de87ae09791d85b1a",
+    "4f64da62ee3b1032be77f3141023d18d.txt": "7aa4ead2021579ef96d74595a63541ffc41a71c21dc2831de22672baec67de3f"
+  },
+  "revision": "3098a841477f7b9e970ab19a4f893bfdfd7e4c3dcb9be215300dc3a01882134f"
+}
